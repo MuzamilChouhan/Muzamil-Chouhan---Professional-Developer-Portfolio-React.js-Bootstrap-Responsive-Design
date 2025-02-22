@@ -62,7 +62,7 @@ Check out the **live version** of my portfolio here:
 
 ## 📢 Connect With Me
 
-- 💼 **Portfolio**: [muzamilchouhan.vercel.app](https://muzamilchouhan.vercel.app)
+- 💼 **Portfolio**: [muzamilchouhan.netlify.app](https://muzamilchouhan.netlify.app)
 - 🔗 **GitHub**: [github.com/muzamilchouhan](https://github.com/muzamilchouhan)
 - 🐦 **Twitter**: [@muzamilchouhan](https://twitter.com/muzamilchouhan)
 - 💬 **LinkedIn**: [linkedin.com/in/muzamilchouhan](https://linkedin.com/in/muzamilchouhan)
